@@ -1,0 +1,10 @@
+Category,Month,Profit,Discount,Sales,Product
+Electronics,jan,300,0.1,800000,Laptop
+Electronics,feb,150,0.2,750000,Mopbile
+Electronics,mar,80,0.15,569900,tablet
+Electronics,apr,500,0.05,600000,mobile
+Electronics,may,200,0.1,4500000,tablet
+Electronics,jun,100,0.2,3400000,laptop
+Electronics,jan,400,0.05,564000,mobile
+Electronics,dec,180,0.15,443000,tablet
+,feb,677,0.12,,
